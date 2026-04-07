@@ -1,7 +1,11 @@
 aid: lear
-url: https://raw.githubusercontent.com/api-evangelist/lear/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/lear/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.lear.com
+description: >-
+  Driving superior in-vehicle experiences with cutting-edge automotive technology
+  for vehicles from major automakers worldwide.
