@@ -21,6 +21,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lear-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lear-corporation
   - type: Website
@@ -29,6 +31,8 @@ common:
     url: https://catalog.lear.com
   - type: Investor Relations
     url: https://ir.lear.com
+  - url: https://www.lear.com/newsroom
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
