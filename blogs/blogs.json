@@ -1,0 +1,14 @@
+{
+  "repo": "lear",
+  "feeds": [
+    {
+      "source": "https://www.lear.com/newsroom",
+      "feed_url": "https://www.lear.com/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 5
+}
