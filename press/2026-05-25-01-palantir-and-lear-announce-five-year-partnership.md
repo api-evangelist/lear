@@ -1,7 +1,9 @@
 ---
 title: Palantir and Lear Announce Five-Year Partnership ...
 url: https://www.lear.com/newsroom/palantir-and-lear-announce-five-year-partnership-expansion-to-accelerate-automotive-technology-transformation-ybzjj
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lear" press release artificial intelligence'
 position: 1
 source: serpapi-google

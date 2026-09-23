@@ -1,7 +1,9 @@
 ---
 title: Lear Corporation's Post
 url: https://www.linkedin.com/posts/lear-corporation_lear-to-enhance-automation-and-artificial-activity-7190667267594956804-ZP7_
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lear" press release artificial intelligence'
 position: 5
 source: serpapi-google

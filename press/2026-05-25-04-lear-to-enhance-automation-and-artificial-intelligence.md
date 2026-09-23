@@ -1,7 +1,9 @@
 ---
 title: Lear to Enhance Automation and Artificial Intelligence ...
 url: https://www.prnewswire.com/news-releases/lear-to-enhance-automation-and-artificial-intelligence-capabilities-through-strategic-acquisition-of-wip-industrial-automation-302129330.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lear" press release artificial intelligence'
 position: 4
 source: serpapi-google
